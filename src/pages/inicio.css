@@ -1,0 +1,39 @@
+.select__game__div__text {
+	display: flex;
+	width: 70%;
+	margin: 0 auto;
+	padding: 8px 0;
+}
+
+.game__div__text {
+	color: #d2d5d8;
+	font-family: Roboto, sans-serif;
+	font-size: 14px;
+}
+
+.div__line__container {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	width: calc(100% - 167px);
+}
+
+.div__line {
+	width: 98%;
+	height: 0.5px;
+	background: #312d32bf;
+}
+
+
+@media screen and (max-width: 600px) {
+  .select__game__div__text {
+      width: 90%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .select__game__div__text {
+      width: 60%;
+      max-width: 900px;
+  }
+}

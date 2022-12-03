@@ -1,0 +1,27 @@
+.game__image__container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.mySwiper {
+    width: 70%;
+    display: flex;
+}
+
+.slide > img {
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .mySwiper {
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .mySwiper {
+        width: 60%;
+        max-width: 900px;
+    }
+}

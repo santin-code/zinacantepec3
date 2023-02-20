@@ -11,6 +11,13 @@
 	border-radius: 16px;
 }
 
+.ancla {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
 @media screen and (max-width: 600px) {
   .select__game__container {
     width: 90%;

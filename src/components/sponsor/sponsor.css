@@ -1,0 +1,15 @@
+.sponsor__container {
+	color: wheat;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: Roboto, sans-serif;
+	margin-top: 24px;
+	flex-direction: column;
+}
+
+.master__shifu {
+	margin-top: 28px;
+	width: 240px;
+}

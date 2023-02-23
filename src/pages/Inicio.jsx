@@ -2,7 +2,6 @@ import React from "react";
 import Slide from "../components/Slide";
 import SelectGame from "../components/selectGame/SelectGame";
 import "./inicio.css";
-import Sponsor from "../components/sponsor/Sponsor";
 
 const Inicio = () => {
   return (
@@ -16,7 +15,6 @@ const Inicio = () => {
         </div>
       </div>
       <SelectGame />
-      <Sponsor />
     </div>
   );
 };

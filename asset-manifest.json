@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.58291ec3.css",
-    "main.js": "/static/js/main.b31c987b.js",
+    "main.css": "/static/css/main.7000dece.css",
+    "main.js": "/static/js/main.6401013d.js",
     "static/media/LeagueofLegends.png": "/static/media/LeagueofLegends.6177599156d03d674bc3.png",
     "static/media/freeFire3.PNG": "/static/media/freeFire3.e40c9a9188b91c0eaf87.PNG",
     "static/media/freeFire1.PNG": "/static/media/freeFire1.35d574bf76235eae5336.PNG",
     "static/media/freeFire2.PNG": "/static/media/freeFire2.f50a77bc8fbadcaa3956.PNG",
     "static/media/CallOfDuty.jpg": "/static/media/CallOfDuty.99274519832d948a5536.jpg",
     "static/media/iconFree.png": "/static/media/iconFree.99926f8fe273899293c2.png",
-    "static/media/ELMAESTROSHIFU.png": "/static/media/ELMAESTROSHIFU.5de927c3abe184792c29.png",
     "static/media/garena-logo.png": "/static/media/garena-logo.5515f0dfb1daaccc9f43.png",
     "index.html": "/index.html",
-    "main.58291ec3.css.map": "/static/css/main.58291ec3.css.map",
-    "main.b31c987b.js.map": "/static/js/main.b31c987b.js.map"
+    "main.7000dece.css.map": "/static/css/main.7000dece.css.map",
+    "main.6401013d.js.map": "/static/js/main.6401013d.js.map"
   },
   "entrypoints": [
-    "static/css/main.58291ec3.css",
-    "static/js/main.b31c987b.js"
+    "static/css/main.7000dece.css",
+    "static/js/main.6401013d.js"
   ]
 }

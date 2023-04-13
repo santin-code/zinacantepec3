@@ -9,7 +9,7 @@ const Inicio = () => {
       <Slide />
 
       <div className="select__game__div__text">
-        <div className="game__div__text">Seleccionar juego a cargar</div>
+        <div className="game__div__text">GRACIAS POR TU PREFERENCIA</div>
         <div className="div__line__container">
           <div className="div__line"></div>
         </div>

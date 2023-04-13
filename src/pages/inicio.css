@@ -1,5 +1,6 @@
 .select__game__div__text {
 	display: flex;
+	justify-content: space-between;
 	width: 70%;
 	margin: 0 auto;
 	padding: 8px 0;
@@ -15,25 +16,35 @@
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
-	width: calc(100% - 167px);
+	width: calc(90% - 167px);
 }
 
 .div__line {
-	width: 98%;
+	width: 90%;
 	height: 0.5px;
 	background: #312d32bf;
 }
 
 
 @media screen and (max-width: 600px) {
-  .select__game__div__text {
-      width: 90%;
-  }
+	.select__game__div__text {
+		width: 90%;
+	}
+
+	.div__line__container {
+		width: calc(80% - 167px);
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.div__line__container {
+		width: calc(80% - 167px);
+	}
 }
 
 @media screen and (min-width: 1200px) {
-  .select__game__div__text {
-      width: 60%;
-      max-width: 900px;
-  }
+	.select__game__div__text {
+		width: 60%;
+		max-width: 900px;
+	}
 }
